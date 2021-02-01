@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="8dp"
+    android:orientation="vertical"
+    android:background="@drawable/button_boader_dark"
+    tools:context=".adapters.Coupen_Adapter">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:layout_alignParentStart="true"
+            android:text="Coupon Get Date"
+            android:textColor="@color/colorBlack" />
+
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/coup_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:layout_alignParentEnd="true"
+            android:text="2020.09.28"
+            android:textColor="@color/colorBlack" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:layout_alignParentStart="true"
+            android:text="Coupon Get Time"
+            android:textColor="@color/colorBlack" />
+
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/coup_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:layout_alignParentEnd="true"
+            android:text="12.45pm"
+            android:textColor="@color/colorBlack" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:layout_alignParentStart="true"
+            android:text="Shop Name"
+            android:textColor="@color/colorBlack" />
+
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/coup_shopname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:layout_alignParentEnd="true"
+            android:text="buruvage kade"
+            android:textStyle="bold"
+            android:textColor="#DD2C00" />
+
+    </RelativeLayout>
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:layout_alignParentStart="true"
+            android:text="Coupon Count"
+            android:textColor="@color/colorBlack" />
+
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/coupen_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:layout_alignParentEnd="true"
+            android:text="2"
+            android:textColor="@color/colorBlack" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:layout_alignParentStart="true"
+            android:text="Total Price"
+            android:textColor="@color/colorBlack" />
+
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/total_price"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:layout_alignParentEnd="true"
+            android:text="Rs.200"
+            android:textColor="@color/colorBlack" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <androidx.appcompat.widget.AppCompatTextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:layout_alignParentStart="true"
+            android:text="Coupon Sent NO"
+            android:textColor="@color/colorBlack" />
+
+
+        <androidx.appcompat.widget.AppCompatTextView
+            android:id="@+id/coup_mobile"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:layout_alignParentEnd="true"
+            android:text="0717554887"
+            android:textColor="@color/colorBlack" />
+
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,76 @@
+<resources>
+    <string name="app_name">Deal Hub</string>
+    <string name="deal_hub">Deal Hub</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="shops">Shops</string>
+    <string name="price_1500_00_discount_20_expiration_date_2020_12_28">Price: 1500.00 <b>|</b> Discount: 20% <b>|</b> Expiration Date: 2020.12.28</string>
+    <string name="edit_your_profile">Edit Your Profile</string>
+    <string name="first_name">First Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="last_name">Last Name</string>
+    <string name="user_name">User Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="discount">Discount</string>
+    <string name="offer_description">Offer Description</string>
+    <string name="price">Price</string>
+    <string name="post">Post</string>
+    <string name="register">Register</string>
+    <string name="shop_name">Shop Name</string>
+    <string name="shop_address">Shop Address</string>
+    <string name="business_registration_no">Business Registration No</string>
+    <string name="contact_no">Contact No</string>
+    <string name="shop_owner_id_no">Shop Owner ID No</string>
+    <string name="shop_owner_id_photo">Shop Owner ID photo</string>
+    <string name="business_registration_photo">Business Registration photo</string>
+    <string name="shop_logo">Shop Logo</string>
+    //hasitha
+    <string name="H1">Cart</string>
+    <string name="S1">KFC</string>
+    <string name="Btn1">Collect Offer</string>
+    <string name="EdBtn1">Edit</string>
+    <string name="S2">Pizza Hut</string>
+    <string name="Off2">COLLECT OFfER</string>
+    <string name="Ed2">Edit</string>
+    <string name="Del1">Delete</string>
+    <string name="Del2">Delete</string>
+    <string name="gtCp">Get Coupon</string>
+    <string name="em1">Enter Your Phone Number</string>
+    <string name="mailSpc"></string>
+    <string name="coupBtn2">Get Coupon</string>
+    <string name="COff">Collect Offer</string>
+    <string name="Des1">Buy 1 Large pizza for 1700/= and get discount of 10%</string>
+    <string name="Pric1">3400</string>
+    <string name="Dis">340</string>
+    <string name="prs1">Price</string>
+    <string name="DcPrc">Discounted Price</string>
+    <string name="Dc">Discount</string>
+    <string name="DcPricM">1530.00</string>
+    <string name="ExpDt">Only till 31 December</string>
+    <string name="Qty">2</string>
+    <string name="sve">Save</string>
+    <string name="Dte">Delete</string>
+    <string name="gtcup2">Get Coupon</string>
+    <string name="Lastprc">Total</string>
+    <string name="ttl">3060.00</string>
+    <string name="Qnt">Quantity</string>
+    //Namal
+    <string name="LG1">LOG IN</string>
+    <string name="SG1">SIGN UP</string>
+    <string name="SG2">Don\'t have an account yet?</string>
+    <string name="FG1">Forgot Password</string>
+    <string name="getdeal">I want to get deals</string>
+    <string name="givedeal">I want to give deals</string>
+    <string name="des1">No matter how good your new product or service, it won\'t fly off the shelves unless you promote it properly. Try these road-tested techniques to make sure your target customers are aware that you have an attractive new product or service on the market</string>
+    <string name="login">Login</string>
+    <string name="don_t_have_an_account_sign_up">Don\'t have an account? Sign Up</string>
+    <string name="exp_date">Exp Date</string>
+    <string name="conformation">Confirmation</string>
+    <string name="are_you_sure_you_want_to_post_this">Are you sure want to delete this offer</string>
+    <string name="cancel">Cancel</string>
+    <string name="yes">Yes</string>
+    <string name="log_out">Log Out</string>
+    <string name="verify">Verify</string>
+</resources>
